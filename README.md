@@ -1,5 +1,6 @@
 Chest_Image_Segmentation
 -----------------------
+![image](https://github.com/user-attachments/assets/77806a3a-4b1b-451c-9239-b75bc4213ef2)
 
 프로젝트 소개
 ---
